@@ -3,8 +3,4 @@ Changing file from github
 One commit to check fetch
 One MORE commit to check fetch
 
-GIT FIX20 Change
-New Commit Hot FIX
-New Commit Hot FIX Master Changes
-MASTER MSTAER MSATER
-MASTER MSTAER MSATER
+New COde for revert
